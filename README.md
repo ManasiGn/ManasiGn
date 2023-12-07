@@ -6,18 +6,20 @@
 
 
 <h2 align="center">Socials</h2>
+<br>
 <div align="center">
   <a href="https://instagram.com/manasi_g_namb">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-</a>
+</a>&nbsp;
 
 <a href="https://linkedin.com/in/manasi-g-1a240729a">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+</a>&nbsp;
 
 <a href="https://pinterest.com/manasig2002">
   <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest">
-</a>
+</a>&nbsp;
+<br>
 </div>
 
 # 💻 Tech Stack:
