@@ -57,7 +57,7 @@
   </div>
 </div><br>
 
-# 📊 GitHub Stats:
+<h1 align="center">📊 GitHub Stats</h1>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManasiGn&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
 <br>
@@ -68,4 +68,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ManasiGn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
