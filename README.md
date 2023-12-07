@@ -1,8 +1,8 @@
 <br><h1 align="center">Hi 👋, I'm Manasi</h1>
-<br><p align="center">Full Stack Developer</p><br>
+<br><p align="center">Full Stack Developer</p>
 <p align="center">Eat(); Code(); Sleep(); Repeat();</p>
-<br><p align="center">📫 How to reach me : manasig2002@gmail.com</p><br>
-<p align="center">⚡ Fun fact : Bugs love me, that's why they come to make my code interesting</p>
+<p align="center">📫 How to reach me : manasig2002@gmail.com</p>
+<p align="center">⚡ Fun fact : Bugs love me, that's why they come to make my code interesting</p><br>
 
 
 ## 🌐 Socials:
