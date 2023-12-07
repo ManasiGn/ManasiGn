@@ -58,7 +58,7 @@
 </div><br>
 
 <h1 align="center">📊 GitHub Stats</h1>
-<div align="center">
+<br><div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManasiGn&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManasiGn&theme=dark&hide_border=true" alt="GitHub Streak">
